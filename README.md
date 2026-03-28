@@ -34,7 +34,6 @@ python main.py
 *   **Math Engine:** Python's built-in `eval` operating rigorously within a confined, safe dictionary mapping internal `math` module functions.
 
 ## ScreenShots
-<img width="504" height="852" alt="image" src="https://github.com/user-attachments/assets/1d558d62-b703-453a-8856-ff6282932675" />
-<img width="508" height="1012" alt="image" src="https://github.com/user-attachments/assets/11e0c087-935e-4476-935a-820632775985" />
+<img width="937" height="604" alt="image" src="https://github.com/user-attachments/assets/7ae33f49-2b90-4c39-af74-32926efab6dd" />
 
 
